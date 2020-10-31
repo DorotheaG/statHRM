@@ -56,6 +56,9 @@ Man kann auch (insb. in der qualitativen Forschung) nach datengesteuerte Verfahr
     - Vorhersagevalidität (genaue Prognosen sind möglich)
 - Reliabilität (wiederholte Messungen mit einem Messinstrument sollten unter den gleichen Bedingungen zu dem gleichen Ergebnis gelangen)"}`
 
+Gütekriterien Beispiel
+`r LINK("https://www.youtube.com/watch?v=PNJHwd4wF6U&t=37m00s")`
+
 ## Messen
 - Messen ist die Zuordnung von Zahlen zu Objekten gemäß festgesetzten Regeln.
 - Strukturtreue`r if(lec){": die Zahlen müssen zueinander Beziehungen aufweisen, die den Beziehungen der gemessenen Objekte entsprechen."}` 
