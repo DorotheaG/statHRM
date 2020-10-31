@@ -26,6 +26,9 @@ Der Zusammenhang zwischen Variablen, die mindestens ordinales Skalenniveau haben
 ## Beispiel
 TBA
 
+## Umsetzung in Software
+in SPSS
+`r LINK("https://www.youtube.com/watch?v=iJWHtoDViV4")`
 
 `r if(!lec){"
 -------
